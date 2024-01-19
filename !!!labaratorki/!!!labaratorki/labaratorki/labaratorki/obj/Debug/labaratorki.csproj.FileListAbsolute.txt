@@ -1,0 +1,173 @@
+D:\labaratorki\labaratorki\bin\Debug\labaratorki.exe.config
+D:\labaratorki\labaratorki\bin\Debug\labaratorki.exe
+D:\labaratorki\labaratorki\bin\Debug\labaratorki.pdb
+D:\labaratorki\labaratorki\obj\Debug\labaratorki.csproj.AssemblyReference.cache
+D:\labaratorki\labaratorki\obj\Debug\labaratorki.csproj.SuggestedBindingRedirects.cache
+D:\labaratorki\labaratorki\obj\Debug\Lab\Lab1.g.cs
+D:\labaratorki\labaratorki\obj\Debug\Lab\Lab2.g.cs
+D:\labaratorki\labaratorki\obj\Debug\Lab\Lab3.g.cs
+D:\labaratorki\labaratorki\obj\Debug\MainWindow.g.cs
+D:\labaratorki\labaratorki\obj\Debug\App.g.cs
+D:\labaratorki\labaratorki\obj\Debug\labaratorki_MarkupCompile.cache
+D:\labaratorki\labaratorki\obj\Debug\labaratorki_MarkupCompile.lref
+D:\labaratorki\labaratorki\obj\Debug\Lab\Lab1.baml
+D:\labaratorki\labaratorki\obj\Debug\Lab\Lab2.baml
+D:\labaratorki\labaratorki\obj\Debug\Lab\Lab3.baml
+D:\labaratorki\labaratorki\obj\Debug\MainWindow.baml
+D:\labaratorki\labaratorki\obj\Debug\labaratorki.g.resources
+D:\labaratorki\labaratorki\obj\Debug\labaratorki.Properties.Resources.resources
+D:\labaratorki\labaratorki\obj\Debug\labaratorki.csproj.GenerateResource.cache
+D:\labaratorki\labaratorki\obj\Debug\labaratorki.csproj.CoreCompileInputs.cache
+D:\labaratorki\labaratorki\obj\Debug\labaratorki.exe
+D:\labaratorki\labaratorki\obj\Debug\labaratorki.pdb
+E:\labaratorki\labaratorki\bin\Debug\labaratorki.exe.config
+E:\labaratorki\labaratorki\bin\Debug\labaratorki.exe
+E:\labaratorki\labaratorki\bin\Debug\labaratorki.pdb
+E:\labaratorki\labaratorki\obj\Debug\labaratorki.csproj.AssemblyReference.cache
+E:\labaratorki\labaratorki\obj\Debug\Lab\Lab1.g.cs
+E:\labaratorki\labaratorki\obj\Debug\Lab\Lab2.g.cs
+E:\labaratorki\labaratorki\obj\Debug\Lab\Lab3.g.cs
+E:\labaratorki\labaratorki\obj\Debug\Lab\Lav4.g.cs
+E:\labaratorki\labaratorki\obj\Debug\MainWindow.g.cs
+E:\labaratorki\labaratorki\obj\Debug\App.g.cs
+E:\labaratorki\labaratorki\obj\Debug\labaratorki_MarkupCompile.cache
+E:\labaratorki\labaratorki\obj\Debug\labaratorki_MarkupCompile.lref
+E:\labaratorki\labaratorki\obj\Debug\Lab\Lab1.baml
+E:\labaratorki\labaratorki\obj\Debug\Lab\Lab2.baml
+E:\labaratorki\labaratorki\obj\Debug\Lab\Lab3.baml
+E:\labaratorki\labaratorki\obj\Debug\MainWindow.baml
+E:\labaratorki\labaratorki\obj\Debug\Lab\Lav4.baml
+E:\labaratorki\labaratorki\obj\Debug\labaratorki.g.resources
+E:\labaratorki\labaratorki\obj\Debug\labaratorki.Properties.Resources.resources
+E:\labaratorki\labaratorki\obj\Debug\labaratorki.csproj.GenerateResource.cache
+E:\labaratorki\labaratorki\obj\Debug\labaratorki.csproj.CoreCompileInputs.cache
+E:\labaratorki\labaratorki\obj\Debug\labaratorki.exe
+E:\labaratorki\labaratorki\obj\Debug\labaratorki.pdb
+E:\labaratorki\labaratorki\obj\Debug\Lab\Lab5.g.cs
+E:\labaratorki\labaratorki\obj\Debug\Lab\Lab5.baml
+D:\labaratorki\labaratorki\obj\Debug\Lab\Lab5.g.cs
+D:\labaratorki\labaratorki\obj\Debug\Lab\Lav4.g.cs
+D:\labaratorki\labaratorki\obj\Debug\Lab\Lab5.baml
+D:\labaratorki\labaratorki\obj\Debug\Lab\Lav4.baml
+E:\labaratorki\labaratorki\obj\Debug\Lab\Lab6.g.cs
+E:\labaratorki\labaratorki\obj\Debug\Lab\Lab6.baml
+E:\labaratorki\labaratorki\obj\Debug\labaratorki.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\Telegram Desktop\labaratorki (2)\labaratorki\labaratorki\bin\Debug\labaratorki.exe.config
+C:\Users\User\Downloads\Telegram Desktop\labaratorki (2)\labaratorki\labaratorki\bin\Debug\labaratorki.exe
+C:\Users\User\Downloads\Telegram Desktop\labaratorki (2)\labaratorki\labaratorki\bin\Debug\labaratorki.pdb
+C:\Users\User\Downloads\Telegram Desktop\labaratorki (2)\labaratorki\labaratorki\obj\Debug\labaratorki.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Telegram Desktop\labaratorki (2)\labaratorki\labaratorki\obj\Debug\labaratorki.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\Telegram Desktop\labaratorki (2)\labaratorki\labaratorki\obj\Debug\Lab\Lab1.g.cs
+C:\Users\User\Downloads\Telegram Desktop\labaratorki (2)\labaratorki\labaratorki\obj\Debug\Lab\Lab2.g.cs
+C:\Users\User\Downloads\Telegram Desktop\labaratorki (2)\labaratorki\labaratorki\obj\Debug\Lab\Lab3.g.cs
+C:\Users\User\Downloads\Telegram Desktop\labaratorki (2)\labaratorki\labaratorki\obj\Debug\Lab\Lab5.g.cs
+C:\Users\User\Downloads\Telegram Desktop\labaratorki (2)\labaratorki\labaratorki\obj\Debug\Lab\Lab6.g.cs
+C:\Users\User\Downloads\Telegram Desktop\labaratorki (2)\labaratorki\labaratorki\obj\Debug\Lab\Lav4.g.cs
+C:\Users\User\Downloads\Telegram Desktop\labaratorki (2)\labaratorki\labaratorki\obj\Debug\MainWindow.g.cs
+C:\Users\User\Downloads\Telegram Desktop\labaratorki (2)\labaratorki\labaratorki\obj\Debug\App.g.cs
+C:\Users\User\Downloads\Telegram Desktop\labaratorki (2)\labaratorki\labaratorki\obj\Debug\labaratorki_MarkupCompile.cache
+C:\Users\User\Downloads\Telegram Desktop\labaratorki (2)\labaratorki\labaratorki\obj\Debug\labaratorki_MarkupCompile.lref
+C:\Users\User\Downloads\Telegram Desktop\labaratorki (2)\labaratorki\labaratorki\obj\Debug\Lab\Lab1.baml
+C:\Users\User\Downloads\Telegram Desktop\labaratorki (2)\labaratorki\labaratorki\obj\Debug\Lab\Lab2.baml
+C:\Users\User\Downloads\Telegram Desktop\labaratorki (2)\labaratorki\labaratorki\obj\Debug\Lab\Lab3.baml
+C:\Users\User\Downloads\Telegram Desktop\labaratorki (2)\labaratorki\labaratorki\obj\Debug\Lab\Lab5.baml
+C:\Users\User\Downloads\Telegram Desktop\labaratorki (2)\labaratorki\labaratorki\obj\Debug\Lab\Lab6.baml
+C:\Users\User\Downloads\Telegram Desktop\labaratorki (2)\labaratorki\labaratorki\obj\Debug\Lab\Lav4.baml
+C:\Users\User\Downloads\Telegram Desktop\labaratorki (2)\labaratorki\labaratorki\obj\Debug\MainWindow.baml
+C:\Users\User\Downloads\Telegram Desktop\labaratorki (2)\labaratorki\labaratorki\obj\Debug\labaratorki.g.resources
+C:\Users\User\Downloads\Telegram Desktop\labaratorki (2)\labaratorki\labaratorki\obj\Debug\labaratorki.Properties.Resources.resources
+C:\Users\User\Downloads\Telegram Desktop\labaratorki (2)\labaratorki\labaratorki\obj\Debug\labaratorki.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Telegram Desktop\labaratorki (2)\labaratorki\labaratorki\obj\Debug\labaratorki.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Telegram Desktop\labaratorki (2)\labaratorki\labaratorki\obj\Debug\labaratorki.exe
+C:\Users\User\Downloads\Telegram Desktop\labaratorki (2)\labaratorki\labaratorki\obj\Debug\labaratorki.pdb
+D:\!!!labaratorki\labaratorki\labaratorki\bin\Debug\labaratorki.exe.config
+D:\!!!labaratorki\labaratorki\labaratorki\bin\Debug\labaratorki.exe
+D:\!!!labaratorki\labaratorki\labaratorki\bin\Debug\labaratorki.pdb
+D:\!!!labaratorki\labaratorki\labaratorki\obj\Debug\labaratorki.csproj.AssemblyReference.cache
+D:\!!!labaratorki\labaratorki\labaratorki\obj\Debug\labaratorki.csproj.SuggestedBindingRedirects.cache
+D:\!!!labaratorki\labaratorki\labaratorki\obj\Debug\Lab\Lab1.g.cs
+D:\!!!labaratorki\labaratorki\labaratorki\obj\Debug\Lab\Lab2.g.cs
+D:\!!!labaratorki\labaratorki\labaratorki\obj\Debug\Lab\Lab3.g.cs
+D:\!!!labaratorki\labaratorki\labaratorki\obj\Debug\Lab\Lab5.g.cs
+D:\!!!labaratorki\labaratorki\labaratorki\obj\Debug\Lab\Lab6.g.cs
+D:\!!!labaratorki\labaratorki\labaratorki\obj\Debug\Lab\Lav4.g.cs
+D:\!!!labaratorki\labaratorki\labaratorki\obj\Debug\MainWindow.g.cs
+D:\!!!labaratorki\labaratorki\labaratorki\obj\Debug\App.g.cs
+D:\!!!labaratorki\labaratorki\labaratorki\obj\Debug\labaratorki_MarkupCompile.cache
+D:\!!!labaratorki\labaratorki\labaratorki\obj\Debug\labaratorki_MarkupCompile.lref
+D:\!!!labaratorki\labaratorki\labaratorki\obj\Debug\Lab\Lab1.baml
+D:\!!!labaratorki\labaratorki\labaratorki\obj\Debug\Lab\Lab2.baml
+D:\!!!labaratorki\labaratorki\labaratorki\obj\Debug\Lab\Lab3.baml
+D:\!!!labaratorki\labaratorki\labaratorki\obj\Debug\Lab\Lab5.baml
+D:\!!!labaratorki\labaratorki\labaratorki\obj\Debug\Lab\Lab6.baml
+D:\!!!labaratorki\labaratorki\labaratorki\obj\Debug\Lab\Lav4.baml
+D:\!!!labaratorki\labaratorki\labaratorki\obj\Debug\MainWindow.baml
+D:\!!!labaratorki\labaratorki\labaratorki\obj\Debug\labaratorki.g.resources
+D:\!!!labaratorki\labaratorki\labaratorki\obj\Debug\labaratorki.Properties.Resources.resources
+D:\!!!labaratorki\labaratorki\labaratorki\obj\Debug\labaratorki.csproj.GenerateResource.cache
+D:\!!!labaratorki\labaratorki\labaratorki\obj\Debug\labaratorki.csproj.CoreCompileInputs.cache
+D:\!!!labaratorki\labaratorki\labaratorki\obj\Debug\labaratorki.exe
+D:\!!!labaratorki\labaratorki\labaratorki\obj\Debug\labaratorki.pdb
+E:\!!!labaratorki\labaratorki\labaratorki\bin\Debug\labaratorki.exe.config
+E:\!!!labaratorki\labaratorki\labaratorki\bin\Debug\labaratorki.exe
+E:\!!!labaratorki\labaratorki\labaratorki\bin\Debug\labaratorki.pdb
+E:\!!!labaratorki\labaratorki\labaratorki\obj\Debug\labaratorki.csproj.AssemblyReference.cache
+E:\!!!labaratorki\labaratorki\labaratorki\obj\Debug\Lab\Lab1.g.cs
+E:\!!!labaratorki\labaratorki\labaratorki\obj\Debug\Lab\Lab2.g.cs
+E:\!!!labaratorki\labaratorki\labaratorki\obj\Debug\Lab\Lab3.g.cs
+E:\!!!labaratorki\labaratorki\labaratorki\obj\Debug\Lab\Lab5.g.cs
+E:\!!!labaratorki\labaratorki\labaratorki\obj\Debug\Lab\Lab6.g.cs
+E:\!!!labaratorki\labaratorki\labaratorki\obj\Debug\Lab\Lab7.g.cs
+E:\!!!labaratorki\labaratorki\labaratorki\obj\Debug\Lab\Lav4.g.cs
+E:\!!!labaratorki\labaratorki\labaratorki\obj\Debug\MainWindow.g.cs
+E:\!!!labaratorki\labaratorki\labaratorki\obj\Debug\App.g.cs
+E:\!!!labaratorki\labaratorki\labaratorki\obj\Debug\labaratorki_MarkupCompile.cache
+E:\!!!labaratorki\labaratorki\labaratorki\obj\Debug\labaratorki_MarkupCompile.lref
+E:\!!!labaratorki\labaratorki\labaratorki\obj\Debug\Lab\Lab1.baml
+E:\!!!labaratorki\labaratorki\labaratorki\obj\Debug\Lab\Lab2.baml
+E:\!!!labaratorki\labaratorki\labaratorki\obj\Debug\Lab\Lab3.baml
+E:\!!!labaratorki\labaratorki\labaratorki\obj\Debug\Lab\Lab5.baml
+E:\!!!labaratorki\labaratorki\labaratorki\obj\Debug\Lab\Lab6.baml
+E:\!!!labaratorki\labaratorki\labaratorki\obj\Debug\Lab\Lav4.baml
+E:\!!!labaratorki\labaratorki\labaratorki\obj\Debug\MainWindow.baml
+E:\!!!labaratorki\labaratorki\labaratorki\obj\Debug\Lab\Lab7.baml
+E:\!!!labaratorki\labaratorki\labaratorki\obj\Debug\labaratorki.g.resources
+E:\!!!labaratorki\labaratorki\labaratorki\obj\Debug\labaratorki.Properties.Resources.resources
+E:\!!!labaratorki\labaratorki\labaratorki\obj\Debug\labaratorki.csproj.GenerateResource.cache
+E:\!!!labaratorki\labaratorki\labaratorki\obj\Debug\labaratorki.csproj.CoreCompileInputs.cache
+E:\!!!labaratorki\labaratorki\labaratorki\obj\Debug\labaratorki.exe
+E:\!!!labaratorki\labaratorki\labaratorki\obj\Debug\labaratorki.pdb
+E:\!!!labaratorki\labaratorki\labaratorki\obj\Debug\Lab\Лаб8.g.cs
+E:\!!!labaratorki\labaratorki\labaratorki\obj\Debug\Lab\Лаб8.baml
+C:\Users\User\Desktop\!!!labaratorki\!!!labaratorki\labaratorki\labaratorki\obj\Debug\labaratorki.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\!!!labaratorki\!!!labaratorki\labaratorki\labaratorki\obj\Debug\labaratorki.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\!!!labaratorki\!!!labaratorki\labaratorki\labaratorki\obj\Debug\Lab\Lab1.g.cs
+C:\Users\User\Desktop\!!!labaratorki\!!!labaratorki\labaratorki\labaratorki\obj\Debug\Lab\Lab2.g.cs
+C:\Users\User\Desktop\!!!labaratorki\!!!labaratorki\labaratorki\labaratorki\obj\Debug\Lab\Lab3.g.cs
+C:\Users\User\Desktop\!!!labaratorki\!!!labaratorki\labaratorki\labaratorki\obj\Debug\Lab\Lab5.g.cs
+C:\Users\User\Desktop\!!!labaratorki\!!!labaratorki\labaratorki\labaratorki\obj\Debug\Lab\Lab6.g.cs
+C:\Users\User\Desktop\!!!labaratorki\!!!labaratorki\labaratorki\labaratorki\obj\Debug\Lab\Lav4.g.cs
+C:\Users\User\Desktop\!!!labaratorki\!!!labaratorki\labaratorki\labaratorki\obj\Debug\Lab\Лаб8.g.cs
+C:\Users\User\Desktop\!!!labaratorki\!!!labaratorki\labaratorki\labaratorki\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\!!!labaratorki\!!!labaratorki\labaratorki\labaratorki\obj\Debug\App.g.cs
+C:\Users\User\Desktop\!!!labaratorki\!!!labaratorki\labaratorki\labaratorki\obj\Debug\labaratorki_MarkupCompile.cache
+C:\Users\User\Desktop\!!!labaratorki\!!!labaratorki\labaratorki\labaratorki\obj\Debug\labaratorki_MarkupCompile.lref
+C:\Users\User\Desktop\!!!labaratorki\!!!labaratorki\labaratorki\labaratorki\obj\Debug\labaratorki.exe
+C:\Users\User\Desktop\!!!labaratorki\!!!labaratorki\labaratorki\labaratorki\obj\Debug\labaratorki.pdb
+C:\Users\User\Desktop\!!!labaratorki\!!!labaratorki\labaratorki\labaratorki\bin\Debug\labaratorki.exe.config
+C:\Users\User\Desktop\!!!labaratorki\!!!labaratorki\labaratorki\labaratorki\bin\Debug\labaratorki.exe
+C:\Users\User\Desktop\!!!labaratorki\!!!labaratorki\labaratorki\labaratorki\bin\Debug\labaratorki.pdb
+C:\Users\User\Desktop\!!!labaratorki\!!!labaratorki\labaratorki\labaratorki\obj\Debug\Lab\Lab7.g.cs
+C:\Users\User\Desktop\!!!labaratorki\!!!labaratorki\labaratorki\labaratorki\obj\Debug\Lab\Lab1.baml
+C:\Users\User\Desktop\!!!labaratorki\!!!labaratorki\labaratorki\labaratorki\obj\Debug\Lab\Lab2.baml
+C:\Users\User\Desktop\!!!labaratorki\!!!labaratorki\labaratorki\labaratorki\obj\Debug\Lab\Lab3.baml
+C:\Users\User\Desktop\!!!labaratorki\!!!labaratorki\labaratorki\labaratorki\obj\Debug\Lab\Lab5.baml
+C:\Users\User\Desktop\!!!labaratorki\!!!labaratorki\labaratorki\labaratorki\obj\Debug\Lab\Lab6.baml
+C:\Users\User\Desktop\!!!labaratorki\!!!labaratorki\labaratorki\labaratorki\obj\Debug\Lab\Lab7.baml
+C:\Users\User\Desktop\!!!labaratorki\!!!labaratorki\labaratorki\labaratorki\obj\Debug\Lab\Lav4.baml
+C:\Users\User\Desktop\!!!labaratorki\!!!labaratorki\labaratorki\labaratorki\obj\Debug\Lab\Лаб8.baml
+C:\Users\User\Desktop\!!!labaratorki\!!!labaratorki\labaratorki\labaratorki\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\!!!labaratorki\!!!labaratorki\labaratorki\labaratorki\obj\Debug\labaratorki.g.resources
+C:\Users\User\Desktop\!!!labaratorki\!!!labaratorki\labaratorki\labaratorki\obj\Debug\labaratorki.Properties.Resources.resources
+C:\Users\User\Desktop\!!!labaratorki\!!!labaratorki\labaratorki\labaratorki\obj\Debug\labaratorki.csproj.GenerateResource.cache
+C:\Users\User\Desktop\!!!labaratorki\!!!labaratorki\labaratorki\labaratorki\obj\Debug\labaratorki.csproj.CoreCompileInputs.cache

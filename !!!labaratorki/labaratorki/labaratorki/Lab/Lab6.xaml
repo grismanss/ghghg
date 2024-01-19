@@ -1,0 +1,47 @@
+﻿<Page x:Class="labaratorki.Lab.Lab6"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:labaratorki.Lab"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Lab6">
+
+    <Grid Background="White">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="35"/>
+            <RowDefinition Height="390"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBlock Text="Исходный массив:" FontSize="15" Height="20" />
+        </StackPanel>
+
+        <StackPanel Grid.Row="0" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBlock Text="Полученный массив:" FontSize="15" Height="20" />
+        </StackPanel>
+
+        <StackPanel  Grid.Row="1" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBox x:Name="TB" Text="5"></TextBox>
+            <DataGrid x:Name="DG1" Height="367" Width="268" ></DataGrid>
+        </StackPanel>
+
+        <StackPanel  Grid.Row="1" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <DataGrid x:Name="DG2" Height="367" Width="268" ></DataGrid>
+        </StackPanel>
+
+        <StackPanel Grid.Row="2" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center" >
+            <Button x:Name="Btn_iskhodnyMas" Click="Btn_iskhodnyMas_Click" Content="Заполнить" FontSize="15" Height="25" Width="100" />
+        </StackPanel>
+
+        <StackPanel Grid.Row="2" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" >
+            <Button x:Name="Btn_izmenennyMas" Click="Btn_izmenennyMas_Click" Content="Изменить" FontSize="15" Height="25" Width="100" />
+        </StackPanel>
+    </Grid>
+</Page>
